@@ -60,8 +60,7 @@ N/A
     To power on the MC-1200, connect the “terminal block to power jack converter” to the MC-1200’s DC terminal block (located on the side panel),and then connect the 9 to 36 VDC power adapter. The computer will be automatically turned on once the power adapter is plugged in. If it does not, press the Power Button to turn on the computer. Note that the Shielded Ground wire should be connected to the top pin of the terminal block. It takes about 30 seconds for the system to boot up. Once the system is ready, the Power LED will light up.
 - **Accessing Moxa MC-1200 series computer Using a Linux/Windows PC or Mac**
 
-    You can use a PC to access Moxa MC-1200 series 
-    ****computer by using SSH over the network. Refer to the following IP addresses and login information:
+    You can use a PC to access Moxa MC-1200 series computer by using SSH over the network. Refer to the following IP addresses and login information:
 
     ![images/image2.png](images/image2.png)
 
